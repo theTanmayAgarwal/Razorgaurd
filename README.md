@@ -54,7 +54,8 @@ python3 -m venv venv
 source venv/bin/activate
 pip install fastapi uvicorn pydantic python-dotenv google-genai pypdf
 ```
-# Create a .env file and add: GEMINI_API_KEY=your_key_here
+#### Create a .env file and add: GEMINI_API_KEY=your_key_here
+
 ```bash
 uvicorn main:app --reload
 ```
