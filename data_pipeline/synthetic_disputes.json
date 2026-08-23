@@ -1,0 +1,1252 @@
+[
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_43145b8e5d5f43",
+                    "entity": "dispute",
+                    "payment_id": "pay_250cb15d6e1244",
+                    "amount": 5666400,
+                    "currency": "INR",
+                    "reason_code": "unrecognized",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Vivaan Bhakta",
+                        "description": "Commercial lease and maintenance - July"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_f07eef19d29e4a",
+                    "entity": "dispute",
+                    "payment_id": "pay_f4228499a2a54c",
+                    "amount": 5455400,
+                    "currency": "INR",
+                    "reason_code": "unrecognized",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Samuel Pillay",
+                        "description": "Commercial lease and maintenance - November"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_7f48c87f96c34b",
+                    "entity": "dispute",
+                    "payment_id": "pay_5f540b5eec2a46",
+                    "amount": 5644400,
+                    "currency": "INR",
+                    "reason_code": "fraudulent",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Krishna Jha",
+                        "description": "Commercial lease and maintenance - October"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_b785cda5cff24c",
+                    "entity": "dispute",
+                    "payment_id": "pay_8d6ccfeca2a647",
+                    "amount": 4666200,
+                    "currency": "INR",
+                    "reason_code": "duplicate",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Chakradhar Swaminathan",
+                        "description": "Commercial lease and maintenance - September"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_99a6adb423b448",
+                    "entity": "dispute",
+                    "payment_id": "pay_96e320d3e1ba42",
+                    "amount": 3440500,
+                    "currency": "INR",
+                    "reason_code": "unrecognized",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Mahika Mukhopadhyay",
+                        "description": "Commercial lease and maintenance - March"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_28cfda2160684f",
+                    "entity": "dispute",
+                    "payment_id": "pay_7d21d2aed2874f",
+                    "amount": 2248900,
+                    "currency": "INR",
+                    "reason_code": "fraudulent",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Teerth Grewal",
+                        "description": "Commercial lease and maintenance - July"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_e8ed81ce26214a",
+                    "entity": "dispute",
+                    "payment_id": "pay_82bff43e1ee640",
+                    "amount": 6482400,
+                    "currency": "INR",
+                    "reason_code": "duplicate",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Chandran Bahri",
+                        "description": "Commercial lease and maintenance - May"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_efee80a0b21c46",
+                    "entity": "dispute",
+                    "payment_id": "pay_e778e5d37f4f43",
+                    "amount": 7189100,
+                    "currency": "INR",
+                    "reason_code": "product_not_delivered",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Aarnav Bains",
+                        "description": "Commercial lease and maintenance - October"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_e7e79ed35d6646",
+                    "entity": "dispute",
+                    "payment_id": "pay_1106aff364b643",
+                    "amount": 4887300,
+                    "currency": "INR",
+                    "reason_code": "unrecognized",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Maanas Goyal",
+                        "description": "Commercial lease and maintenance - December"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_d82d12a095de4c",
+                    "entity": "dispute",
+                    "payment_id": "pay_7089df9b9b0e42",
+                    "amount": 2439700,
+                    "currency": "INR",
+                    "reason_code": "product_not_delivered",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Dhriti Rastogi",
+                        "description": "Commercial lease and maintenance - October"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_7de1abc403734f",
+                    "entity": "dispute",
+                    "payment_id": "pay_c4a7e1c6b9af4b",
+                    "amount": 4736600,
+                    "currency": "INR",
+                    "reason_code": "fraudulent",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Kiaan Jayaraman",
+                        "description": "Commercial lease and maintenance - November"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_253b264cb6c04b",
+                    "entity": "dispute",
+                    "payment_id": "pay_c3d1844f4d1f42",
+                    "amount": 3901300,
+                    "currency": "INR",
+                    "reason_code": "unrecognized",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Nisha Wali",
+                        "description": "Commercial lease and maintenance - October"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_58d83c1cd53146",
+                    "entity": "dispute",
+                    "payment_id": "pay_542521b52f6a46",
+                    "amount": 6975200,
+                    "currency": "INR",
+                    "reason_code": "unrecognized",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Sachi Comar",
+                        "description": "Commercial lease and maintenance - January"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_311b2ebcd4ae4d",
+                    "entity": "dispute",
+                    "payment_id": "pay_b01d5a0668ee41",
+                    "amount": 6910400,
+                    "currency": "INR",
+                    "reason_code": "product_not_delivered",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Vedika Arya",
+                        "description": "Commercial lease and maintenance - April"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_ad496d1bd22440",
+                    "entity": "dispute",
+                    "payment_id": "pay_b8dc8b4055104b",
+                    "amount": 6683300,
+                    "currency": "INR",
+                    "reason_code": "unrecognized",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Yagnesh Karpe",
+                        "description": "Commercial lease and maintenance - March"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_0052c640fa9d4d",
+                    "entity": "dispute",
+                    "payment_id": "pay_fcfc244a851d4a",
+                    "amount": 2486400,
+                    "currency": "INR",
+                    "reason_code": "unrecognized",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Agastya Barman",
+                        "description": "Commercial lease and maintenance - July"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_62abc652273749",
+                    "entity": "dispute",
+                    "payment_id": "pay_22b194c0bae448",
+                    "amount": 1693900,
+                    "currency": "INR",
+                    "reason_code": "fraudulent",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Gunbir Balay",
+                        "description": "Commercial lease and maintenance - March"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_fc142bddce0e46",
+                    "entity": "dispute",
+                    "payment_id": "pay_5dc620c5476541",
+                    "amount": 4628400,
+                    "currency": "INR",
+                    "reason_code": "unrecognized",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Dakshesh Karnik",
+                        "description": "Commercial lease and maintenance - September"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_7bb26be038994f",
+                    "entity": "dispute",
+                    "payment_id": "pay_69c7dbb84abe4a",
+                    "amount": 3614600,
+                    "currency": "INR",
+                    "reason_code": "duplicate",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Ekiya Dugar",
+                        "description": "Commercial lease and maintenance - March"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_185fff8c9c9441",
+                    "entity": "dispute",
+                    "payment_id": "pay_a3fd9a7bf7c547",
+                    "amount": 5075000,
+                    "currency": "INR",
+                    "reason_code": "unrecognized",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Advaith Thaker",
+                        "description": "Commercial lease and maintenance - April"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_bc083fcf3b7146",
+                    "entity": "dispute",
+                    "payment_id": "pay_d52fb57fc0f747",
+                    "amount": 2899200,
+                    "currency": "INR",
+                    "reason_code": "product_not_delivered",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Divya Reddy",
+                        "description": "Commercial lease and maintenance - January"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_badfe128dfa546",
+                    "entity": "dispute",
+                    "payment_id": "pay_9ea8353b16e94b",
+                    "amount": 3610600,
+                    "currency": "INR",
+                    "reason_code": "fraudulent",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Rajata Bir",
+                        "description": "Commercial lease and maintenance - January"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_972d3c10766a42",
+                    "entity": "dispute",
+                    "payment_id": "pay_72b21981d07448",
+                    "amount": 6106400,
+                    "currency": "INR",
+                    "reason_code": "product_not_delivered",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Idika Ramaswamy",
+                        "description": "Commercial lease and maintenance - August"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_9c13377f6be349",
+                    "entity": "dispute",
+                    "payment_id": "pay_4f8323a8745645",
+                    "amount": 6036400,
+                    "currency": "INR",
+                    "reason_code": "fraudulent",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Brijesh Patel",
+                        "description": "Commercial lease and maintenance - December"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_40026baece444e",
+                    "entity": "dispute",
+                    "payment_id": "pay_ad00f49c694940",
+                    "amount": 6351900,
+                    "currency": "INR",
+                    "reason_code": "fraudulent",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Baljiwan Cheema",
+                        "description": "Commercial lease and maintenance - March"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_5de2571a086547",
+                    "entity": "dispute",
+                    "payment_id": "pay_3e4687146c0a4a",
+                    "amount": 3286500,
+                    "currency": "INR",
+                    "reason_code": "fraudulent",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Gavin Brar",
+                        "description": "Commercial lease and maintenance - July"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_ffe62bfab44a40",
+                    "entity": "dispute",
+                    "payment_id": "pay_8ef26966cb7342",
+                    "amount": 2682700,
+                    "currency": "INR",
+                    "reason_code": "product_not_delivered",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Udyati Bhatnagar",
+                        "description": "Commercial lease and maintenance - December"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_fee3f800695f4e",
+                    "entity": "dispute",
+                    "payment_id": "pay_4d5f3fd54c6841",
+                    "amount": 1758600,
+                    "currency": "INR",
+                    "reason_code": "duplicate",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Yamini Bhavsar",
+                        "description": "Commercial lease and maintenance - March"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_9d0ed31a5a164c",
+                    "entity": "dispute",
+                    "payment_id": "pay_3086a830e8e94a",
+                    "amount": 3864200,
+                    "currency": "INR",
+                    "reason_code": "unrecognized",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Baljiwan Palla",
+                        "description": "Commercial lease and maintenance - November"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_6ed7a9adca2443",
+                    "entity": "dispute",
+                    "payment_id": "pay_9a93c282e4e942",
+                    "amount": 2850800,
+                    "currency": "INR",
+                    "reason_code": "unrecognized",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Ekani Hari",
+                        "description": "Commercial lease and maintenance - April"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_8e854e2999a549",
+                    "entity": "dispute",
+                    "payment_id": "pay_985fcfbc6a964a",
+                    "amount": 2041700,
+                    "currency": "INR",
+                    "reason_code": "product_not_delivered",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Hemani Chaudhary",
+                        "description": "Commercial lease and maintenance - January"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_2b8698691ddc4b",
+                    "entity": "dispute",
+                    "payment_id": "pay_852840f518054f",
+                    "amount": 2817000,
+                    "currency": "INR",
+                    "reason_code": "product_not_delivered",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Girik Solanki",
+                        "description": "Commercial lease and maintenance - July"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_c0f561280ff048",
+                    "entity": "dispute",
+                    "payment_id": "pay_95ceed12e2ab4d",
+                    "amount": 4262200,
+                    "currency": "INR",
+                    "reason_code": "fraudulent",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Lakshit Deshmukh",
+                        "description": "Commercial lease and maintenance - April"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_4c444ff1adca48",
+                    "entity": "dispute",
+                    "payment_id": "pay_f5bf7d69165947",
+                    "amount": 5117900,
+                    "currency": "INR",
+                    "reason_code": "fraudulent",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Nirja Kohli",
+                        "description": "Commercial lease and maintenance - January"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_14ad8c7f41004c",
+                    "entity": "dispute",
+                    "payment_id": "pay_8a27322fd40548",
+                    "amount": 1522100,
+                    "currency": "INR",
+                    "reason_code": "unrecognized",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Bakhshi Dixit",
+                        "description": "Commercial lease and maintenance - September"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_37dba977829042",
+                    "entity": "dispute",
+                    "payment_id": "pay_28bcb3421c384d",
+                    "amount": 3079100,
+                    "currency": "INR",
+                    "reason_code": "unrecognized",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Adya Sandal",
+                        "description": "Commercial lease and maintenance - July"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_39a1c12d187540",
+                    "entity": "dispute",
+                    "payment_id": "pay_81bc3286242648",
+                    "amount": 7115500,
+                    "currency": "INR",
+                    "reason_code": "fraudulent",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Jason Munshi",
+                        "description": "Commercial lease and maintenance - February"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_f7badd2dc78a4e",
+                    "entity": "dispute",
+                    "payment_id": "pay_63da50b6e60144",
+                    "amount": 7248300,
+                    "currency": "INR",
+                    "reason_code": "product_not_delivered",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Aarnav Narayanan",
+                        "description": "Commercial lease and maintenance - January"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_625f4874bd2e40",
+                    "entity": "dispute",
+                    "payment_id": "pay_d2a825f7167144",
+                    "amount": 7004800,
+                    "currency": "INR",
+                    "reason_code": "duplicate",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Samuel Chokshi",
+                        "description": "Commercial lease and maintenance - August"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_6b51c737586d41",
+                    "entity": "dispute",
+                    "payment_id": "pay_c87e5cf1bc5149",
+                    "amount": 3156400,
+                    "currency": "INR",
+                    "reason_code": "fraudulent",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Lila Gandhi",
+                        "description": "Commercial lease and maintenance - August"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_becee3a768b741",
+                    "entity": "dispute",
+                    "payment_id": "pay_e76804112d224f",
+                    "amount": 5023200,
+                    "currency": "INR",
+                    "reason_code": "fraudulent",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Ekantika Mishra",
+                        "description": "Commercial lease and maintenance - June"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_e9326998130845",
+                    "entity": "dispute",
+                    "payment_id": "pay_088a1cdfed794d",
+                    "amount": 2390400,
+                    "currency": "INR",
+                    "reason_code": "duplicate",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Hemani Hayre",
+                        "description": "Commercial lease and maintenance - December"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_67ffe253fce34d",
+                    "entity": "dispute",
+                    "payment_id": "pay_351d4f8bba8247",
+                    "amount": 3218800,
+                    "currency": "INR",
+                    "reason_code": "duplicate",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Laksh Deshmukh",
+                        "description": "Commercial lease and maintenance - January"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_6c6ae77e3ffe45",
+                    "entity": "dispute",
+                    "payment_id": "pay_ff2b1c2d0b3745",
+                    "amount": 6404200,
+                    "currency": "INR",
+                    "reason_code": "duplicate",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Nidra Kunda",
+                        "description": "Commercial lease and maintenance - May"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_c0cef99e19c643",
+                    "entity": "dispute",
+                    "payment_id": "pay_4882e8a841fb49",
+                    "amount": 3376600,
+                    "currency": "INR",
+                    "reason_code": "duplicate",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Upadhriti Pillai",
+                        "description": "Commercial lease and maintenance - October"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_df0f88d1d6704c",
+                    "entity": "dispute",
+                    "payment_id": "pay_883936331adf4f",
+                    "amount": 1180400,
+                    "currency": "INR",
+                    "reason_code": "product_not_delivered",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Shaurya Sheth",
+                        "description": "Commercial lease and maintenance - February"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_4ae76ebc9bbf48",
+                    "entity": "dispute",
+                    "payment_id": "pay_e382a2f29df24a",
+                    "amount": 3697900,
+                    "currency": "INR",
+                    "reason_code": "product_not_delivered",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Ira Sule",
+                        "description": "Commercial lease and maintenance - February"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_cb28c31d89a240",
+                    "entity": "dispute",
+                    "payment_id": "pay_3c58128ea3d54d",
+                    "amount": 1450000,
+                    "currency": "INR",
+                    "reason_code": "unrecognized",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Omya Borah",
+                        "description": "Commercial lease and maintenance - October"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_819d19b8e22e46",
+                    "entity": "dispute",
+                    "payment_id": "pay_4aabd139ac6342",
+                    "amount": 5515700,
+                    "currency": "INR",
+                    "reason_code": "duplicate",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Tanay Dixit",
+                        "description": "Commercial lease and maintenance - November"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "entity": "event",
+        "event": "payment.dispute.under_review",
+        "contains": [
+            "dispute"
+        ],
+        "payload": {
+            "dispute": {
+                "entity": {
+                    "id": "disp_96bdeefdd3dd4b",
+                    "entity": "dispute",
+                    "payment_id": "pay_24c922abfaf44f",
+                    "amount": 4236300,
+                    "currency": "INR",
+                    "reason_code": "unrecognized",
+                    "status": "under_review",
+                    "created_at": 1787478975,
+                    "metadata": {
+                        "customer_name": "Madhavi Buch",
+                        "description": "Commercial lease and maintenance - June"
+                    }
+                }
+            }
+        }
+    }
+]
