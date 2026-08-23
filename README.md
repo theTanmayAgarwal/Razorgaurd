@@ -1,5 +1,4 @@
 # 🛡️ RazorGuard: Deterministic AI Dispute Sentinel
-**Razorpay Buildathon • Track 02: AI Risk Manager**
 
 ![RazorGuard Dashboard Preview](https://img.shields.io/badge/Status-Production_Ready-emerald?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-FastAPI-blue?style=for-the-badge&logo=python) ![Next.js](https://img.shields.io/badge/Next.js-React-black?style=for-the-badge&logo=next.js) ![Gemini](https://img.shields.io/badge/AI-Gemini_2.5_Flash-orange?style=for-the-badge)
 
